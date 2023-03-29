@@ -1,2 +1,2 @@
-## Dependency-injection-in-console-app
+# Dependency Injection
 Demonstrating Dependency Injection in a Console Application.
